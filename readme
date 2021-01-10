@@ -1,0 +1,15 @@
+Name: Yen Pham
+CS3530
+Programming Assignment 5
+
+To compile all files: make
+Run server file on cse01.cse.unt.edu: ./server <server port number>
+Run client file on cse02.cse.unt.edu: ./client <server port number>
+
+(Run server before running client)
+To clean all unnescary files: make clean
+
+How to use the program:
+_First, on the server side, enter an IP address and a subnet part number from 24 to 30.
+_The program will display the server port network ip address and the available host ip addresses
+_Leave server there and run client program for multiple clients.
